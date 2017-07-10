@@ -1,1 +1,10 @@
-
+{
+    "name" : "Modo 10",
+    "version" : "v10.2",
+    "os" : "win",
+    "mods_used" : ["ALT", "COMMAND", "SHIFT"],
+    "default_context" : "Modo",
+    "contexts" : {
+       
+        }
+    }
